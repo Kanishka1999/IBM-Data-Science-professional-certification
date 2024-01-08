@@ -1,4 +1,5 @@
-# IBM: Applied Data Science Capstone Project (This summary is extracted from the coursera course itself)
+# IBM: Applied Data Science Capstone Project 
+### (This summary is extracted from the coursera course itself)
 
 <img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="300" width="600">
 
